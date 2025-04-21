@@ -1,4 +1,3 @@
-vious sections we have seen how to build a grammar for a chat program , piece by piece. Let’s now copy that grammar we just created in the same folder of our Javascript files.
 grammar Chat;
 /*
  * Parser Rules
